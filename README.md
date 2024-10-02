@@ -1,6 +1,6 @@
-# revshellDns
+# revshellDns (WIP)
 
-Simple reverse shell using DNS tunnel
+Simple reverse shell using DNS tunnel (educational purposes only).
 
 ## Concept
 
