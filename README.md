@@ -43,13 +43,9 @@ This allows it to respond legitimately while masking its true intent.
 
 ## Notes
 
-- the reverse shell is built to send data via all tools that do not use eDNS (for example Windows Nslookup or Linux Dig)
+- the reverse shell is built to send data via all tools that do not use eDNS (for example Windows Nslookup or Linux Dig). An untested Powershell agent is provided
 - unlike other reverse shells, hexadecimal encoding is used as it is compliant with the DNS name standard (chunks include only numbers and letters, not case sensitive)
 - The reverse shell was created for educational purposes only so at the moment it does not use advanced DNS libraries and does not transmit encrypted data
 - the code still contains some problems that will be fixed in the future
 - a Linux client is included with some features that simulate those of malware (dynamic sleep time, timeout settings etc.)
 
-## TODO
-- Add more info to this README
-- Windows Batch client
-- Windows Powershell or C# client
