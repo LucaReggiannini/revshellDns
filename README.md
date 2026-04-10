@@ -1,6 +1,6 @@
 # revshellDns (WIP)
 
-Simple reverse shell using DNS tunnel (educational purposes only).
+Simple reverse shell using DNS tunnel.
 
 ## Responsible use notice
 These materials are provided for educational and research purposes. Any testing or use must be limited to systems, networks, or devices owned by the user, or to environments where explicit permission to test has been granted. Guidance that could facilitate unauthorized or harmful activity will not be provided.
