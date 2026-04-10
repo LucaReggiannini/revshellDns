@@ -2,6 +2,9 @@
 
 Simple reverse shell using DNS tunnel (educational purposes only).
 
+## Responsible use notice
+These materials are provided for educational and research purposes. Any testing or use must be limited to systems, networks, or devices owned by the user, or to environments where explicit permission to test has been granted. Guidance that could facilitate unauthorized or harmful activity will not be provided.
+
 ## Concept
 
 ```mermaid
@@ -24,6 +27,10 @@ sequenceDiagram
 ```
 
 ## Demo
+
+Click below to see the video:
+
+[![Watch the video](https://i3.ytimg.com/vi/wtMGOK7eFP0/hqdefault.jpg)](https://www.youtube.com/watch?v=fz-LbaSFADM)
 
 In this case, the malicious server is configured to interact with clients using the "*.google.com" domain.
 
